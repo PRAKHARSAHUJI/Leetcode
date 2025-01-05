@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
