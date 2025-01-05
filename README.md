@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
@@ -54,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
