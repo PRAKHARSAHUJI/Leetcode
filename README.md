@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -74,6 +75,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
