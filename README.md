@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
