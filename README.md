@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
@@ -52,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
