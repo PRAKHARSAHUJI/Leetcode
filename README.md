@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
