@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
