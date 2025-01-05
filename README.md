@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0217-contains-duplicate) |
