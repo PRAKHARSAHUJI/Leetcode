@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
