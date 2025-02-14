@@ -71,7 +71,7 @@ public:
             res += arr[i];
         }
 
-        delete[] arr;
+        // delete[] arr;
         return res;
     }
 };
