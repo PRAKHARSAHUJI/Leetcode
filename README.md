@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Math
 |  |
 | ------- |
