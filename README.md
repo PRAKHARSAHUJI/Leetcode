@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0415-add-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
