@@ -1,3 +1,56 @@
+// ------------------------------ APPROACH 3 --------------------------------
+
+class Solution {
+public:
+    vector<int> searchRange(vector<int>& arr, int target) {
+        int start = 0;
+        int end = arr.size() - 1;
+        int ans = -1;  // ✅ Fix: Start with -1 to handle "not found" case
+
+        while(start <= end){
+            int mid = start + (end - start) / 2;
+            if(arr[mid] == target){
+                ans = mid;
+                break;
+            }else if(arr[mid] < target){
+                start = mid + 1;
+            }else{
+                end = mid - 1;
+            }
+        }
+
+        if(ans == -1) return {-1, -1};
+
+        vector<int> res;
+        int left = ans, right = ans;
+
+        for(int i = ans; i >= 0; i--){
+            if(arr[i] == target){
+                left = i;
+            } else {
+                break;
+            }
+        }
+        res.push_back(left);
+
+        for(int i = ans; i < arr.size(); i++){
+            if(arr[i] == target){
+                right = i;
+            } else {
+                break;
+            }
+        }
+        res.push_back(right);
+
+        return res;
+    }
+};
+
+
+/*
+
+// ------------------------------ APPROACH 2 --------------------------------
+
 class Solution {
 public:
     vector<int> searchRange(vector<int>& arr, int target) {
@@ -47,10 +100,12 @@ public:
     }
 };
 
-
+*/
 
 
 /*
+
+// ------------------------------ APPROACH 1 --------------------------------
 
 class Solution {
 public:
