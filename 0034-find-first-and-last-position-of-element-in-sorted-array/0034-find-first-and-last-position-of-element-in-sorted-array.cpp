@@ -5,7 +5,7 @@ public:
     vector<int> searchRange(vector<int>& arr, int target) {
         int start = 0;
         int end = arr.size() - 1;
-        int ans = -1;  // ✅ Fix: Start with -1 to handle "not found" case
+        int ans = -1; 
 
         while(start <= end){
             int mid = start + (end - start) / 2;
