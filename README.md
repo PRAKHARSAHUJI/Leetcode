@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0792-binary-search) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
