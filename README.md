@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/1013-fibonacci-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PRAKHARSAHUJI/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Recursion
